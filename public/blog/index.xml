@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on writing code, making music</title>
+    <link>https://graysonguarino.com/blog/</link>
+    <description>Recent content in Blogs on writing code, making music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Dec 2023 08:57:00 -0600</lastBuildDate>
+    <atom:link href="https://graysonguarino.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Mead From Hell</title>
+      <link>https://graysonguarino.com/blog/the-mead-from-hell/</link>
+      <pubDate>Tue, 05 Dec 2023 08:57:00 -0600</pubDate>
+      <guid>https://graysonguarino.com/blog/the-mead-from-hell/</guid>
+      <description>What if I handmade Christmas gifts this year? The oft-discussed &amp;ldquo;five love languages&amp;rdquo; concept includes gift giving as a language of love. In middle school I remember we had to rank our love languages from most preferred to least preferred, and if I remember right, gift giving came out last. To this day, I&amp;rsquo;m not the biggeset fan of giving or receiving gifts.
+Maybe I am a scrooge, a meiser, or an ahedonic post-capitalist (depending who you ask), but I view myself as preferring practicality over everything.</description>
+    </item>
+  </channel>
+</rss>
