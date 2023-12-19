@@ -346,9 +346,9 @@ I have.
 Thank you all for being such positive forces in my life.
 The last few years have been a time of considerable change
 for me and have flown by faster than I could have ever
-imagined. Just in the past year I have left a job, started
-a new one, taken in an amazing cat, Gibby, moved, met my 
-lovely girlfriend, gave Gibby a new home, and
+imagined. Just in the past year I have left a job; started
+a new one; taken in an amazing cat, Gibby; moved; met my 
+lovely girlfriend; gave Gibby a new home; and
 experienced the passing of my unspeakably special dog, Rudy.
 
 With how fast paced everything has been, I'm likely
