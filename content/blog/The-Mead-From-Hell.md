@@ -293,7 +293,7 @@ the liquid that spewed out the bottles after opening.
 
 ## Day 24 - December 4, 2023
 
-Time to head pasteurize *again*.
+Time to heat pasteurize *again*.
 
 ![Last time](/images/blog/The-Mead-From-Hell/LastTime.jpeg)
 
