@@ -36,6 +36,11 @@ icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/graysonguarino"
 
+[[ params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "Linkedin"
+url = "https://linkedin.com/in/graysonguarino"
+
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
@@ -48,6 +53,12 @@ url = "mailto:graysonguarino@gmail.com"
     name = "blog"
     url = "/blog/"
     weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+    weight = 20
 
 [taxonomies]
 category = "categories"
