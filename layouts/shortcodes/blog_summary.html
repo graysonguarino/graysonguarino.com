@@ -1,0 +1,8 @@
+{{ range .Site.RegularPages.ByDate | first 5 }}
+<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+(~{{ .ReadingTime }} minute read)
+<blockquote>
+{{ .Summary }}
+</blockquote>
+<hr>
+{{ end }}
