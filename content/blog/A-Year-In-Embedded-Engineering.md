@@ -115,7 +115,7 @@ using CubeMX to generate your MCU configurations, the Clock Configure page can l
 *why* it's laid out that way (because you have clocks which are subdivisions of other clocks) it starts to make a lot more sense.
 
 ![whoa](/images/blog/A-Year-In-Embedded-Engineering/STM32_Clock_Config.png)
-[https://stackoverflow.com/q/40214987](Image lifted from K. Mulier on Stack Overflow)
+[Image lifted from K. Mulier on Stack Overflow](https://stackoverflow.com/q/40214987)
 
 ### 3. Interrupts
 
