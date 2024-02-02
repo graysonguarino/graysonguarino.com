@@ -24,7 +24,7 @@ everything the FOSS community had to offer.
 
 Getting to work with the people who made that crucial childhood memory a reality was quite intimidating. Here I am, a fresh computer
 science graduate from Louisiana, in a hotel in Frankfurt playing Codenames with the lead of Ubuntu Desktop. I felt incredibly
-underqualified working with the people whose names I had read in About pages twelve years prior.
+under qualified working with the people whose names I had read in About pages twelve years prior.
 
 The team who worked on Mir are some of the most brilliant minds I've ever had the pleasure of meeting. They pushed me to be the
 best software engineer I could be. I call 2022 the year I experienced "trial by fire". The team couldn't have been more patient
@@ -59,7 +59,7 @@ every search result I could find for I2S, I2C, UART, SAI, STM32, SPI, GPIO, and 
 listing.
 
 After getting the job, I was in "fake it 'till you make it" mode for months. Luckily, while working in a domain that interests me
-with incredible mentors who helped me get up to speed with the world of embedded engineering, the imposter syndrome that I've felt 
+with incredible mentors who helped me get up to speed with the world of embedded engineering, the impostor syndrome that I've felt 
 since entering the workforce has started fading way. I don't get everything, but I get **it**.
 
 ## How To Become An Embedded Engineer
@@ -72,7 +72,7 @@ Here are some of my favorites (in no particular order):
 * [Vivionomicon's *"Bare Metal" STM32 Programming* series](https://vivonomicon.com/2018/04/02/bare-metal-stm32-programming-part-1-hello-arm/)
   * Arguably the single most helpful writing I've come across on embedded programming. Walks you through many of the features
   and design considerations one will come across when using STM32 products. He also gets into the nitty-gritty on how CubeMX
-  (STMicroelectronics' code generator for STM32 projects) generates peripheral access code and clock configuratons. Also, his breakdown on linker
+  (STMicroelectronics' code generator for STM32 projects) generates peripheral access code and clock configurations. Also, his breakdown on linker
   files were incredibly helpful in demystifying them.
 * [Stargirl Flowers' *The Most Thoroughly Commented Linker Script (Probably)*](https://blog.thea.codes/the-most-thoroughly-commented-linker-script/)
   * Exactly what the title says. Great for people who know nothing about proper memory utilization and layout details on embedded 
@@ -81,7 +81,7 @@ Here are some of my favorites (in no particular order):
 * [Makefile Tutorial](https://makefiletutorial.com)
   * Not specific to embedded programming, but Makefiles were as confusing as linker files to me until reading this
 * [Low Level Learning on YouTube](https://www.youtube.com/@LowLevelLearning)
-  * Some of the most entertaining and digestable videos on embedded and systems programming
+  * Some of the most entertaining and digestible videos on embedded and systems programming
 * [Let's Get Rusty on YouTube](https://www.youtube.com/@letsgetrusty)
   * Not necessarily focused on embedded engineering, but a good channel to have in your toolbelt if you're curious about Rust
 
@@ -115,7 +115,7 @@ using CubeMX to generate your MCU configurations, the Clock Configure page can l
 *why* it's laid out that way (because you have clocks which are subdivisions of other clocks) it starts to make a lot more sense.
 
 ![whoa](/images/blog/A-Year-In-Embedded-Engineering/STM32_Clock_Config.png)
-(Image lifed from K. Mulier on Stack Overflow)
+[https://stackoverflow.com/q/40214987](Image lifted from K. Mulier on Stack Overflow)
 
 ### 3. Interrupts
 
@@ -145,7 +145,7 @@ may not exist yet! Otherwise, your callback is going to hit a function pointer t
 ### 4. Timers
 
 MCUs will often have hardware timers which can be used to send a clock to peripherals or run callbacks at regular 
-intervals. If there's anything that is time-critical in your application where you need to guarantee that code will be run
+intervals. If there's anything that is time critical in your application where you need to guarantee that code will be run
 every {period of time}, a timer can call an interrupt which pauses all other execution to run that code. 
 
 ### 5. RAM Layout
@@ -188,7 +188,7 @@ they were recording their albums themselves on four-track cassette recorders ins
 
 Limitations can be the greatest teacher of all. The domain of problems you have to solve are so immediate, so tangible, that
 you *know* you can find the answer if you look hard enough. I believe you can truly become one with your system, at least
-moreso than you ever could with the thousands of differenct devices with different operating systems and CPU architectures and
+more so than you ever could with the thousands of different devices with different operating systems and CPU architectures and
 displays and input devices that are all capable of rendering this website.
 
 If you're a software engineer, especially early in your career, and you're thinking about giving embedded a shot, I
