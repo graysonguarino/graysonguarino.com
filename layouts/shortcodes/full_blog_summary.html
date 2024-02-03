@@ -1,0 +1,8 @@
+{{ range where .Site.RegularPages.ByDate.Reverse "Section" "blog" }}
+<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+(~{{ .ReadingTime }} minute read)
+<blockquote>
+{{ .Summary }}
+</blockquote>
+<hr>
+{{ end }}
