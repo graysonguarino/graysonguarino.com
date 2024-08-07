@@ -1,5 +1,7 @@
 +++
 title = 'About'
+[params]
+  excludeRss = true
 +++
 
 My name is Grayson Guarino and I write code and make music.

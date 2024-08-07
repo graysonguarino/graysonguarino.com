@@ -1,6 +1,8 @@
 +++
 title = ''
 date = 2024-01-29T19:15:53-06:00
+[params]
+  excludeRss = true
 +++
 
 # Greetings

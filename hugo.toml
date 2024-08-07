@@ -43,6 +43,11 @@ icon = "fa-solid fa-envelope"
 title = "Email"
 url = "mailto:graysonguarino@gmail.com"
 
+[[params.socialLinks]]
+icon = "fa-solid fa-rss"
+title = "RSS"
+url = "index.xml"
+
 [menu]
 
   [[menu.main]]
