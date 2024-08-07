@@ -46,7 +46,7 @@ url = "mailto:graysonguarino@gmail.com"
 [[params.socialLinks]]
 icon = "fa-solid fa-rss"
 title = "RSS"
-url = "index.xml"
+url = "/index.xml"
 
 [menu]
 
