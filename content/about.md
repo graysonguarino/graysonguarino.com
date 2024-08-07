@@ -8,7 +8,8 @@ My name is Grayson Guarino and I write code and make music.
 
 # In tech
 
-* (2023-) Embedded Software Engineer II @ Fender
+* (2024-) Software Engineer II @ GEICO
+* (2023-2024) Embedded Software Engineer II @ Fender
   * Building digital modeling amplifiers with STM32 MCUs (both bare metal and RTOS)
 * (2022-2023) Associate Software Engineer @ Canonical
   * Working on [Mir](https://mir-server.io), a Linux display server, and [Ubuntu Frame](https://github.com/MirServer/ubuntu-frame),
